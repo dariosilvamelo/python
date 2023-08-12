@@ -1,0 +1,2 @@
+variavel = 'Alguma coisa'
+
